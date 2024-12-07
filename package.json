@@ -1,0 +1,26 @@
+{
+  "name": "custom-vuepress-theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@vuepress/bundler-vite": "^2.0.0-rc.18",
+    "@vuepress/plugin-copy-code": "^2.0.0-rc.61",
+    "@vuepress/plugin-prismjs": "^2.0.0-rc.61",
+    "@vuepress/theme-default": "^2.0.0-rc.61",
+    "autoprefixer": "^10.4.20",
+    "fast-glob": "^3.3.2",
+    "postcss": "^8.4.49",
+    "sass": "^1.81.0",
+    "sass-embedded": "^1.81.0",
+    "tailwindcss": "^3.4.15",
+    "vuepress": "^2.0.0-rc.18"
+  }
+}
