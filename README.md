@@ -11,7 +11,7 @@ This is a simple example of how your content will look with the custom VuePress 
 ## Features
 
 - Customizable
-- Built with VuePress and Tailwind CSS
+- Built with VuePress 2.x and Tailwind CSS
 
 ## Contributing
 
